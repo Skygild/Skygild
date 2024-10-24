@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skygild&show_icons=true&locale=en&layout=compact" alt="skygild" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skygild&show_icons=true&locale=en" alt="skygild" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skygild&" alt="skygild" /></p>
