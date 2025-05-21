@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skygild" alt="skygild" /></a> </p>
 
-- 🌱 I’m currently learning **C# ASP.NET Core**
+- 🌱 I’m currently learning **Cybersecurity & AI**
 
 - 💬 Ask me about **Web Development and Mobile Development**
 
